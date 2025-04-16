@@ -19,13 +19,13 @@ K-Talk is a real-time chat application built using **Java WebSockets**, **Servle
 
 ---
 
-## ✨ Features
+## Features
 
-- 🔒 No login required — just enter your name and start chatting!
-- ⚡ Real-time communication using Java WebSocket API.
-- 💬 Messages appear instantly without refreshing the page.
-- 🧠 Lightweight frontend using HTML + JavaScript.
-- ☁️ Deployable on Apache Tomcat or any Java EE-compatible server.
+- No login required — just enter your name and start chatting!
+- Real-time communication using Java WebSocket API.
+- Messages appear instantly without refreshing the page.
+- Lightweight frontend using HTML + JavaScript.
+- Deployable on Apache Tomcat or any Java EE-compatible server.
 
 ---
 
@@ -43,4 +43,4 @@ RealTimeChat/
 │   │       ├── js/script.js          # JS for WebSocket communication
 │   │       └── WEB-INF/web.xml       # Servlet config
 │
-└── README.md                         # You are here ❤️
+└── README.md                        
