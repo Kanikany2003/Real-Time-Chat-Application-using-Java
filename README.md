@@ -18,7 +18,8 @@ This project was developed as part of academic coursework at NFSU, and serves as
 
 ## 🎥 Video Tutorial
 
-[![Watch on Google Drive](https://via.placeholder.com/800x450.png?text=Click+to+Watch+Tutorial)](https://drive.google.com/file/d/1jz8-9NfR-HGmYexAM_2UKleaxszafkeh/view?usp=sharing)
+[![Watch the Tutorial](https://i.imgur.com/WN5pAIN.png)](https://drive.google.com/file/d/1jz8-9NfR-HGmYexAM_2UKleaxszafkeh/view?usp=sharing)
+
 
 ---
 
